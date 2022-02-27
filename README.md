@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 </ul>
 -->
 
-<h3>Info:</h3>   
+<h2>About:</h2>   
+<p>I'm working as IoT Developer and Operation Engineer, Besides, I'm certified in IoT from ITI and Cisco, and in AI from Huawei. I built solutions with most of the new technologies ex. BLE, LoRa, and SigFox using platforms like MOT, Cervello, ChirpStack, TTN, Google Cloud, and Arduino Cloud IoT. Also worked as Technical Recruiter, Android Developer, and still part-time YouTuber.</p>
+
+<h2>Info:</h2>   
 
 Email: email@example.com | Phone: +20 115 052 2259
 ------------- | -------------
