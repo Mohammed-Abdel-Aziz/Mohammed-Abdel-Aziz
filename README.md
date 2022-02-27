@@ -16,8 +16,17 @@ Here are some ideas to get you started:
 
 <h4 align="start">Software Engineer | IoT Engineer | Operation Engineer | Mentor | Instructor | Freelancer | Youtuber 😎</h4>
 
+<!--
 <ul align="start">
 <li>
   <p>...</p>
 </li>
 </ul>
+-->
+
+<h3>Info:</h3>   
+
+Email: email@example.com | Phone: +20 115 052 2259
+------------- | -------------
+Birthday: 1 Jan 1997  | Website: https://mohammedmahmoud.web.app/
+
