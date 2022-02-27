@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <ul align="start">
 <li>
-  <p>- 🔭 I’m currently working on ...</p>
+  <p>...</p>
 </li>
 </ul>
