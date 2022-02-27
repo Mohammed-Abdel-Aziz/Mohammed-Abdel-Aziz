@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MohammedMahmoud97/MohammedMahmoud97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="start">As-salamu Alaykum, I’m Mohammed M. Abdel-Aziz 👋</h1>
 
-<p align="center">
-  ds
-</p>
+<h4 align="start">Software Engineer | IoT Engineer | Operation Engineer | Mentor | Instructor | Freelancer | Youtuber 😎</h4>
+
+<ul align="start">
+<li>
+  <p>- 🔭 I’m currently working on ...</p>
+</li>
+</ul>
