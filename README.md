@@ -39,4 +39,10 @@ Birthday: 1 Jan 1997  | Website: https://mohammedmahmoud.web.app/
 <li>
   <p>IoT Consulting</p>
 </li>
+  <li>
+  <p>Digital Transformation</p>
+</li>
+<li>
+  <p>Teaching</p>
+</li>
 </ul>
