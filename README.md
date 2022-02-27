@@ -49,9 +49,9 @@ Birthday: 1 Jan 1997  | Website: https://mohammedmahmoud.web.app/
 </ul>
 -->
 
- * IoT Consulting
+ * <b>IoT Consulting</b>
     * IoT consulting helps apply IoT technology to improve operational control, reduce human labor, and optimize the use of assets. At ScienceSoft, IoT consultants can plan the networking of IoT devices, set up real-time and advanced data analytics, create monitoring and control apps.
- * Digital Transformation
+ * <b>Digital Transformation</b>
     * Can help your business evolve quickly to seize opportunities and mitigate risks.
- * Teaching
+ * <b>Teaching</b>
     * IoT training courses for IoT application development planning and integrate into customer business process for various industry segments.
