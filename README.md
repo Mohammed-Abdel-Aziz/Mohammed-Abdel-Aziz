@@ -55,3 +55,5 @@ Birthday: 1 Jan 1997  | Website: https://mohammedmahmoud.web.app/
     * Can help your business evolve quickly to seize opportunities and mitigate risks.
  * <b>Teaching</b>
     * IoT training courses for IoT application development planning and integrate into customer business process for various industry segments.
+ * <b>Resume Consulting</b>
+    * A recruiter-friendly option. ResumeSpice. See at ResumeSpice. 
