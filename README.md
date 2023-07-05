@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="start">As-salamu Alaykum, I’m Mohammed M. Abdel-Aziz 👋</h1>
 
+
 <h4 align="start">Software Engineer | IoT Engineer | Operation Engineer | Mentor | Instructor | Freelancer | Youtuber 😎</h4>
 
 <!--
@@ -48,6 +49,9 @@ Birthday: 1 Jan 1997  | Website: https://mohammedmahmoud.web.app/
 </li>
 </ul>
 -->
+
+<!--
+
 
  * <b>IoT Consulting</b>
     * IoT consulting helps apply IoT technology to improve operational control, reduce human labor, and optimize the use of assets. At ScienceSoft, IoT consultants can plan the networking of IoT devices, set up real-time and advanced data analytics, create monitoring and control apps.
@@ -88,3 +92,5 @@ Birthday: 1 Jan 1997  | Website: https://mohammedmahmoud.web.app/
   <img src="https://camo.githubusercontent.com/5f209d6636e953aab1e49a34c7903fbf69dd4aea2c1a5904e3a1d35207da87ae/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d597572694465764154267265706f3d696e7374616772616d2d636c6f6e65267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&amp;repo=instagram-clone&amp;theme=tokyonight" style="max-width: 100%;" align="">
 </a>
 </p>
+
+*/
